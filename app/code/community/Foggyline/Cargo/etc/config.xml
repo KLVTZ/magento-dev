@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<config>
+	<!-- defaults -->
+	<default>
+		<carriers>
+			<foggyline_cargo_fixy>
+				<active>1</active>
+				<model>foggyline_cargo/shipping_carrier_fixy</model>
+				<title>Foggyline Cargo</title>
+				<name>Fixy</name>
+			</foggyline_cargo_fixy>
+		</carriers>
+	</default>
+	<!-- modules -->
+	<modules>
+		<Foggyline_Cargo>
+			<version>1.0.0.0</version>
+		</Foggyline_Cargo>
+	</modules>
+	<global>
+		<!-- blocks -->
+		<blocks>
+		</blocks>
+		<!--models -->
+		<models>
+			<foggyline_cargo>
+				<class>Foggyline_Cargo_Model</class>
+			</foggyline_cargo>
+		</models>
+		<!-- resources -->
+		<resources>
+		</resources>
+		<!-- helpers -->
+		<helpers>
+		</helpers>
+	</global>
+	<frontend>
+		<routers>
+			<!-- Routers and Controllers -->
+			<foggyline_happyhour>
+			</foggyline_happyhour>
+		</routers>
+		<!-- events -->
+		<events>
+		</events>
+	</frontend>
+	<!-- cron jobs -->
+	<crontab>
+	</crontab>
+</config>

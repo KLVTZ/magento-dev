@@ -384,3 +384,12 @@
 2014-07-17T23:22:57+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): Entity: line 2: parser error : Start tag expected, '&lt;' not found  in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
 2014-07-17T23:22:57+00:00 ERR (3): Warning: SimpleXMLElement::__construct():   in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
 2014-07-17T23:22:57+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): ^  in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
+2014-07-24T18:22:48+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): Entity: line 2: parser error : Start tag expected, '&lt;' not found  in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
+2014-07-24T18:22:48+00:00 ERR (3): Warning: SimpleXMLElement::__construct():   in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
+2014-07-24T18:22:48+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): ^  in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
+2014-07-24T18:22:49+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): Entity: line 2: parser error : Start tag expected, '&lt;' not found  in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
+2014-07-24T18:22:49+00:00 ERR (3): Warning: SimpleXMLElement::__construct():   in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
+2014-07-24T18:22:49+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): ^  in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
+2014-07-24T18:31:33+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): Entity: line 2: parser error : Start tag expected, '&lt;' not found  in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
+2014-07-24T18:31:33+00:00 ERR (3): Warning: SimpleXMLElement::__construct():   in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810
+2014-07-24T18:31:33+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): ^  in /var/www/magento.dev/magento/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International.php on line 810

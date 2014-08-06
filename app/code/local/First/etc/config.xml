@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<default>
+		<some>
+			<random>
+				<xpath>Here is a value</xpath>
+			</random>
+		</some>
+	</default>
+	<stores>
+		<french>
+			<some>
+				<random>
+					<xpath>Here is a FRENCH value</xpath>
+				</random>
+			</some>
+		</french>
+	</stores>
+</config>
